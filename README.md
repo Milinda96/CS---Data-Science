@@ -1,1 +1,1 @@
-# CS---Data-Science
+# CS - Data Science
